@@ -1,6 +1,8 @@
-PHP Auto Zip Creator
+PHP Auto Zip Creator v1.0
 
 Copyright 2013 Saumya Majumder
+http://www8.isaumya.com
+
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -12,11 +14,17 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
 
 Licensed under GPL License
-http://www.gnu.org/licenses/gpl-3.0-standalone.html
+http://www.gnu.org/licenses/gpl.html
 ======================================================
 
 PHP Auto ZIP Creator is a small PHP plugin which will help you to create 
 a ZIP file of your required directory of within your server.
+
+
+Changelog
+=========
+
+v 1.0 - 07/07/2013 - Initial release after continuous testing for 1 month
 
 
 How To Use
