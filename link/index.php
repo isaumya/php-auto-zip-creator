@@ -1,4 +1,14 @@
 <?php
+/*
+ * PHP Auto Zip Creator v1.0
+ * https://github.com/isaumya/php-auto-zip-creator
+ *
+ * Copyright 2013, Saumya Majumder
+ * http://www8.isaumya.com
+ *
+ * Licensed under the GPL license v3:
+ * http://www.gnu.org/licenses/gpl-3.0-standalone.html
+ */
 	if(isset($_REQUEST['generatelink']))
 	{
 		$dir = base64_encode($_REQUEST['ddir']);
