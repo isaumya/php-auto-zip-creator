@@ -11,7 +11,7 @@
  */
 	
 		$directory = base64_decode($_REQUEST['dr']);
-		$directory2 = '/home/isaumya/public_html/downloads/';
+		$directory2 = '/home/isaumya/public_html/downloads/'; //Give the path where the ZIP file will be created
 		$filename = base64_decode($_REQUEST['fn']).'.zip';
 		$df = $directory2.$filename;
 		
