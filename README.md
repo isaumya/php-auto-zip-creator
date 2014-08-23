@@ -1,7 +1,7 @@
 PHP Auto Zip Creator v1.0
 
 Copyright 2013 Saumya Majumder
-http://www8.isaumya.com
+http://www.isaumya.com
 
 
 This program is free software: you can redistribute it and/or modify
